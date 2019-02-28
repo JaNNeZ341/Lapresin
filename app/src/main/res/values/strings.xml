@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lapres.in</string>
+    <string name="title">Kumpulan Rumus Lapres</string>
+    <string name="hitung">Hitung!!</string>
+    <string name="hasil">Hasil Di Sini</string>
+    <string name="title_activity_model">model</string>
+</resources>
